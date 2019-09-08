@@ -1,4 +1,4 @@
-// Created by TomNomNom
+// edited by Jockerdz_Salah
 <?php
 $url = "https://hackerone.com/graphql";
 $authtoken = $argv[1]?? die('needs auth token');
